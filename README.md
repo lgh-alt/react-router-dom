@@ -1,6 +1,6 @@
 In the project directory, you can run:
 
-### `npm install or yarn add`
+### `npm install or yarn install`
 
 ### `npm start or yarn start`
 
